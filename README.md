@@ -5,4 +5,5 @@ commit 변경된 내용들을 하나로 묶어서 로컬 저장소에 저장하�
 ## Hello OpenVINO
 기본적으로 anaconda 가상환경을 이용했음.  
 
-가상환경은 BrainAI 깃허브를 참고
+가상환경은 BrainAI 깃허브를 참고  
+https://github.com/brainai-hub/anaconda-venv
